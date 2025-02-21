@@ -91,42 +91,42 @@ function App() {
       company: "Cognifyz Technologies",
       role: "Python Development Intern",
       date: "Fall 2024",
-      image: "./assets/images/Internship/int-1.png"
+      image: "/assets/images/Internship/int-1.png"
     },
     {
       id: 2,
       company: "Prodigy InfoTech",
       role: "Machine Learning Intern",
       date: "Fall 2024",
-      image: "./assets/images/Internship/int-2.png"
+      image: "/assets/images/Internship/int-2.png"
     },
     {
       id: 3,
       company: "Technostanet Services Pvt Ltd",
       role: "Python Development Intern",
       date: "Fall 2024",
-      image: "./assets/images/Internship/int-3.png"
+      image: "/assets/images/Internship/int-3.png"
     },
     {
       id: 4,
       company: "CodSoft",
       role: "Python Programming Intern",
       date: "Fall 2024",
-      image: "./assets/images/Internship/int-4.png"
+      image: "/assets/images/Internship/int-4.png"
     },
     {
       id: 5,
       company: "iNeuron",
       role: "Smart Health Care Project Intern",
       date: "Fall 2024",
-      image: "./assets/images/Internship/int-5.png"
+      image: "/assets/images/Internship/int-5.png"
     },
     {
       id: 6,
       company: "Info Bharat Interns",
       role: "Virtual Intern (Computer Science)",
       date: "Fall 2024",
-      image: "./assets/images/Internship/int-6.png"
+      image: "/assets/images/Internship/int-6.png"
     }
   ];
 
