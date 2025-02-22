@@ -82,7 +82,7 @@ function App() {
 
   const certificates = Array.from({ length: 24 }, (_, i) => ({
     id: i + 1,
-    url: `\\assets\\images\\Certificate Portfolio\\Certificate Portfolio-${String(i + 1).padStart(2, '0')}.png`
+    url: `./assets/images/Certificate Portfolio/Certificate Portfolio-${String(i + 1).padStart(2, '0')}.png`
   }));
 
   const offerLetters = [
@@ -264,7 +264,7 @@ function App() {
           <div className="container mx-auto px-4 py-16 relative">
             <div className="flex flex-col items-center text-center animate-fadeIn">
               <div className="w-32 h-32 rounded-full overflow-hidden mb-6 ring-4 ring-red/20 hover:ring-red/40 transition-all duration-300 animate-float hover-glow">
-                <img src=".\assets\images\logo.jpg" alt="Ruthwik Reddy" className="w-full h-full object-cover" />
+                <img src="./assets/images/logo.jpg" alt="Ruthwik Reddy" className="w-full h-full object-cover" />
               </div>
               <h1 className="text-4xl md:text-6xl font-bold mb-3 tracking-tight font-playfair neon-text">
                 Akkenapally Ruthwik Reddy
@@ -349,7 +349,7 @@ function App() {
 
         {/* Banner Section - Moved here */}
         <section className="banner">
-          <img src=".\assets\images\Banner.jpg" alt="Banner" className="banner-image" />
+          <img src="./assets/images/Banner.jpg" alt="Banner" className="banner-image" />
         </section>
 
         {/* Certifications Section */}
